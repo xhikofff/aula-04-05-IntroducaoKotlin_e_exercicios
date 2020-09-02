@@ -1,9 +1,9 @@
 package Exercícios
 
 fun main (){
-    println(ePar(25205))
+    println(ehPar(25205))
 }
-fun ePar (a: Int) : Boolean{
+fun ehPar (a: Int) : Boolean{
 //    if (a % 2 == 0){
 //        return true
 //    }
